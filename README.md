@@ -11,10 +11,10 @@
 - react-select
 - tailwind
 
-# Kaynaklar
+# Source
 
 API: `https://rapidapi.com/apininjas/api/cars-by-api-ninjas`
 
 Screen View
 
-![](./src/assets/CarRental.gif);
+![](./src/assets/CarRental.gif)
